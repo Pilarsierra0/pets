@@ -20,7 +20,7 @@ const Navbar = () => {
       </ul>
     </div>
     <ImagenCarrito/>
-    <itemListContainer greeting = " Hola Buen dia!!"/>
+    <ItemListContainer greeting = " Hola Buen dia!!"/>
   </div>
 </nav>
     );
